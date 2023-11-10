@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          นาย กฤษณะ ตันติพงษ์
+          Kritsana Tuntipong
         </p>
         <a
           className="App-link"
